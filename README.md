@@ -16,7 +16,7 @@
 
 ---
 
-## 아키텍처 🏚
+## 수상 🥇
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/10cb6f41-271f-43c4-9d92-922f0732c460" alt="System Architecture" width="45%" style="margin-right: 10px;"/>
